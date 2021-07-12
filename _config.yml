@@ -1,2 +1,3 @@
 name: Richard Detomasi
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
